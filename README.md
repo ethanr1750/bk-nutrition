@@ -7,3 +7,6 @@ Burger King is one of the most popular fast-food chains in the world, with a wid
 Hypothesis
 
 Our hypothesis is that the nutritional content of Burger King menu items varies significantly, and some menu items may have higher levels of calories, sugars, trans fat, and sodium than others. We expect that there will be a positive correlation between calories and sugar content, as well as between trans fat and sodium content. We also anticipate that some menu items may have higher levels of protein and dietary fiber, which are essential nutrients for a healthy diet. Through this analysis, we hope to provide valuable insights into the nutritional value of Burger King menu items and help consumers make informed choices about what they eat.
+
+
+***Note Plotly graphs don't render well in Github***
